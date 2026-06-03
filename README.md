@@ -16,6 +16,22 @@ Transform raw Superstore data into meaningful business insights using Excel dash
 - Slicers
 - Dashboard Design
 
+
+## Dashboard Preview
+
+### Home Page
+
+![Home Page](Home_page.png)
+
+### Sales Analysis Dashboard
+
+![Sales Analysis](Sales_Analysis.png)
+
+### Profit Analysis Dashboard
+
+![Profit Analysis](Profit_Analysis.png)
+
+
 ## Dashboard Features
 
 - Sales Analysis Dashboard
